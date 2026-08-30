@@ -29,7 +29,7 @@ def divide_conquer(A, B):
         return [[A[0][0] * B[0][0]]]
 
     mid = n // 2
-
+    #splitting the matrix
     A11 = [row[:mid] for row in A[:mid]]
     A12 = [row[mid:] for row in A[:mid]]
     A21 = [row[:mid] for row in A[mid:]]
