@@ -4,7 +4,7 @@ All the public service portals are really outdated and really hard to navigate. 
 
 **Describe something you've learned outside a classroom or formal course. How did you learn it?**
 
-know about design, video editing and web development came from simply trying to build things. I started with small projects and eventually got into things like HTML/CSS, After Effects, video editing and designing websites for events. Most of it was self-taught through YouTube and tons of trial and error. And my technical skills are pretty decent because of all that.
+know about design, video editing and web development came from simply trying to build things. I started with small projects and eventually got into things like HTML/CSS, After Effects, davinci resolve, video editing and designing websites for events. Most of it was self-taught through YouTube, and along with my friends and my best friend, and tons of trial and error. And my technical skills are pretty decent because of all that.
 
 **How do you intend to contribute back to the club?**
 
